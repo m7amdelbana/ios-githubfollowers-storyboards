@@ -33,8 +33,8 @@ This project is a simple project using Swift programming language, I build it wi
 
 # Author
 
-Created by Mohamed Elbana on 2020. Copyright © 2020 Mohamed Elbana.
-[LinkedIN](https://www.linkedin.com/in/mohamed-elbana-a5a214ab)
+Created by Mohamed Elbana on 2023. Copyright © 2023 Mohamed Elbana.
+[LinkedIn](https://www.linkedin.com/in/m7amdelbana/)
 
 Please don't hesitate to ask any clarifying questions about the project if you have any.
 
